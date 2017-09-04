@@ -59,7 +59,7 @@ function getDoctorId(){
 	}
 });
 	}else{
-			alert("please enter doctor id");
+			alert("Ingrese el nombre del deportista!");
 	}
 	
 }
